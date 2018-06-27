@@ -1,0 +1,15 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-image: url("../Images/background.jpg");
+    background-repeat: no-repeat;
+}
+
+li {
+    color: white;
+    list-style-type: none;
+    margin-top: 10px;
+}
+
+h5 {
+    color: white;
+}
